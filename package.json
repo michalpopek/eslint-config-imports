@@ -1,0 +1,16 @@
+{
+  "name": "@michalpopek/eslint-config-imports",
+  "version": "1.0.1-1",
+  "description": "Personal ESLint configuration for import sorting",
+  "main": "index.js",
+  "repository": "https://github.com/michalpopek/eslint-config-imports",
+  "author": "Michał Popek <michal@popek.co>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": "*"
+  },
+  "dependencies": {
+    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
